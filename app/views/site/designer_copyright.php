@@ -1,0 +1,1 @@
+<p class="author-copyright">Сделано</p>
